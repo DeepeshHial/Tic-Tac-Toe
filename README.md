@@ -24,7 +24,7 @@ To get a local copy up and running follow these simple steps:
 Clone the repo:
 sh
 Copy code
-git clone https://github.com/your-username/tic-tac-toe.git
+git clone https://github.com/DeepeshHial/Tic-Tac-Toe
 Navigate to the project directory:
 
 Copy code
