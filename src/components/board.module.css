@@ -1,0 +1,18 @@
+.board_row {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  gap: 2vh;
+  margin-bottom: 2vh;
+}
+.board_inside {
+  /* background-color: aqua; */
+  text-align: center;
+}
+span {
+  color: red;
+  font-size: 15vh;
+}
+h1 {
+  font-size: 12vh;
+}
